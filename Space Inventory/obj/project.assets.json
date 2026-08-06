@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Space-Inventory\\Space Inventory\\Space Inventory\\Space Inventory.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Space-Inventory-Supplies\\Space Inventory\\Space Inventory.csproj",
       "projectName": "Space Inventory",
-      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Space-Inventory\\Space Inventory\\Space Inventory\\Space Inventory.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Space-Inventory-Supplies\\Space Inventory\\Space Inventory.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Space-Inventory\\Space Inventory\\Space Inventory\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Space-Inventory-Supplies\\Space Inventory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

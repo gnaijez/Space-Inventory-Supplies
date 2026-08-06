@@ -25,6 +25,9 @@ namespace Space_Inventory
             return quantity;
         }
 
+        //catatan
+        //tambahkan header biar Keren
+
 
         public static void Main(string[] args)
         {
