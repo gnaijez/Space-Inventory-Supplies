@@ -8,23 +8,23 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Lenovo\\.nuget\\packages\\": {},
+    "C:\\Users\\NZ\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Space-Inventory-Supplies\\Space Inventory\\Space Inventory.csproj",
+      "projectUniqueName": "C:\\Users\\NZ\\source\\repos\\Space-Inventory-Supplies\\Space Inventory\\Space Inventory.csproj",
       "projectName": "Space Inventory",
-      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Space-Inventory-Supplies\\Space Inventory\\Space Inventory.csproj",
-      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Space-Inventory-Supplies\\Space Inventory\\obj\\",
+      "projectPath": "C:\\Users\\NZ\\source\\repos\\Space-Inventory-Supplies\\Space Inventory\\Space Inventory.csproj",
+      "packagesPath": "C:\\Users\\NZ\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\NZ\\source\\repos\\Space-Inventory-Supplies\\Space Inventory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\NZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

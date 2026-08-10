@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Space Inventory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cff5f44dc79f9dc88cdc62c4418e85dee20aae2f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48f48af3bba956374c2be3f743b3562463c6c2ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("Space Inventory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Space Inventory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

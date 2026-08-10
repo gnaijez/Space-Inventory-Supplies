@@ -27,6 +27,7 @@ namespace Space_Inventory
 
         //catatan
         //tambahkan header biar Keren
+        //test
 
 
         public static void Main(string[] args)
